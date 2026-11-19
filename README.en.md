@@ -10,6 +10,8 @@ Ember Court is an anime-inspired fantasy deckbuilder. This playable build includ
 
 ![Screenshots of the title screen and an Ember Mark attack](preview.jpg)
 
+The title screen keeps Celine and the queen in frame on widescreen and portrait displays. All four fighters idle using high-resolution artwork, and each of the three enemies has its own defeat pose and sequence.
+
 ## How to play
 
 - Draw five cards and regain three energy each turn. Check the enemy’s next move before choosing whether to attack, block, or apply Ember Marks.
