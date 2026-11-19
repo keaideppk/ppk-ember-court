@@ -2,7 +2,7 @@
 
 简体中文 · [English](README.en.md)
 
-**[在线游玩](https://keaideppk.github.io/ember-court/)**
+**[在线游玩](https://keaideppk.github.io/ppk-ember-court/)**
 
 《余烬星庭》是一款二次元奇幻牌组构筑游戏。这是第一章「借来的一盏灯」的可玩版，支持桌面浏览器和手机触控。游戏界面为简体中文。
 

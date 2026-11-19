@@ -2,7 +2,7 @@
 
 [简体中文](README.md) · English
 
-**[Play in your browser](https://keaideppk.github.io/ember-court/)**
+**[Play in your browser](https://keaideppk.github.io/ppk-ember-court/)**
 
 Ember Court is an anime-inspired fantasy deckbuilder. This playable build includes Chapter One, *A Borrowed Flame*, and supports desktop browsers and mobile touch controls. The game itself is in Simplified Chinese.
 
