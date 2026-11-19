@@ -4,23 +4,22 @@
 
 **[Play in your browser](https://keaideppk.github.io/ppk-ember-court/)**
 
-Ember Court is an anime-inspired fantasy deckbuilder. This playable build includes Chapter One, *A Borrowed Flame*, and supports desktop browsers and mobile touch controls. The game itself is in Simplified Chinese.
+Ember Court is an anime-inspired fantasy deckbuilder. The playable build includes a five-chapter campaign and supports desktop browsers and mobile touch controls. The game is in Simplified Chinese.
 
 > When the bells erase the names of the dead, lantern knight Celine carries the last flame into Ember Court. The queen on the throne remembers every person the city has lost, and why she erased their names.
 
-![Screenshots of the title screen and an Ember Mark attack](preview.jpg)
-
-The title screen keeps Celine and the queen in frame on widescreen and portrait displays. All four fighters idle using high-resolution artwork, and each of the three enemies has its own defeat pose and sequence.
+![Widescreen battle screenshot](preview.jpg)
 
 ## How to play
 
-- Draw five cards and regain three energy each turn. Check the enemy’s next move before choosing whether to attack, block, or apply Ember Marks.
-- Play 刻下灼印 to apply marks, then use 星火突刺 to consume them for bonus damage.
-- Win two encounters to reach a two-phase boss. After each regular encounter, you can add one of three reward cards to your deck.
-- You can skip pre-battle dialogue. Open 演出设置 to mute sound or reduce motion and flashes.
+- Start a journey as Burn Marks, Poison, Charm, Riposte, Combo, or Summoning Celine. Each form starts with eight cards and a passive ability.
+- Draw five cards and normally regain three energy each turn. Read the enemy's intent before choosing whether to attack, block, or build up an effect.
+- Pick one of three cards after each battle. The six playstyle forms always receive at least one option that matches their main playstyle. The current pool has 47 cards.
+- After Chapter Two, choose between two specializations. Each unlocks a new outfit, an additional passive, and a once-per-battle finisher.
+- You can skip pre-battle dialogue, and the game saves before each fight. Open 演出设置 to mute sound or reduce motion and flashes.
 
 ## Play offline
 
-Open [index.html](index.html) on GitHub, use the file’s download button, and open the downloaded file in your browser. The artwork is embedded in the single HTML file.
+[Download the playable HTML](https://raw.githubusercontent.com/keaideppk/ppk-ember-court/main/index.html), save it locally, and open it in your browser. The artwork is embedded in the single HTML file.
 
 The characters, card art, and environments were created for Ember Court. The illustrations were generated with GPT Image 2.6.
