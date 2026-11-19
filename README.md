@@ -18,8 +18,4 @@
 - 第二章通关后，从两个分支中选一个进阶，获得新造型、额外被动和每战可用一次的终结技。
 - 战前剧情可跳过，战前自动存档。通过「演出设置」可以静音或减弱动作与闪光。
 
-## 离线游玩
-
-[下载游玩版 HTML](https://raw.githubusercontent.com/keaideppk/ppk-ember-court/main/index.html)，将文件保存到本地后用浏览器打开。游戏美术已内嵌在单个 HTML 中。
-
 角色、卡图和场景为本作制作，插画使用 GPT Image 2.6 生成。

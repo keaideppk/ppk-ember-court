@@ -18,8 +18,4 @@ Ember Court is an anime-inspired fantasy deckbuilder. The playable build include
 - After Chapter Two, choose between two specializations. Each unlocks a new outfit, an additional passive, and a once-per-battle finisher.
 - You can skip pre-battle dialogue, and the game saves before each fight. Open 演出设置 to mute sound or reduce motion and flashes.
 
-## Play offline
-
-[Download the playable HTML](https://raw.githubusercontent.com/keaideppk/ppk-ember-court/main/index.html), save it locally, and open it in your browser. The artwork is embedded in the single HTML file.
-
 The characters, card art, and environments were created for Ember Court. The illustrations were generated with GPT Image 2.6.
