@@ -12,10 +12,11 @@ Ember Court is an anime-inspired fantasy deckbuilder. The playable build include
 
 ## How to play
 
-- Start a journey as Burn Marks, Poison, Charm, Riposte, Combo, or Summoning Celine. Each form starts with eight cards and a passive ability.
+- Start a journey as Burn Marks, Poison, Illusion, Riposte, Combo, or Summoning Celine. Each form starts with eight cards and a passive ability.
 - Draw five cards and normally regain three energy each turn. Read the enemy's intent before choosing whether to attack, block, or build up an effect.
 - Pick one of three cards after each battle. The six playstyle forms always receive at least one option that matches their main playstyle. The current pool has 47 cards.
 - After Chapter Two, choose between two specializations. Each unlocks a new outfit, an additional passive, and a once-per-battle finisher.
 - You can skip pre-battle dialogue, and the game saves before each fight. Open 演出设置 to mute sound or reduce motion and flashes.
+- You can also download the offline package from [Releases](https://github.com/keaideppk/ppk-ember-court/releases) and open `index.html` locally.
 
-The characters, card art, and environments were created for Ember Court. The illustrations were generated with GPT Image 2.6.
+The characters, card art, and environments were originally created for Ember Court. Illustrations were generated with AI image models (GPT Image 2.6 and Google Antigravity image tools) and post-processed manually; audio is synthesized via Web Audio.
